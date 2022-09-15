@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    padding:10px; 
+    margin-top:20px; 
+    margin-bottom:30px;
+}
+
+.footer {
+    background-color: rgb(201, 201, 201);
+}
+
+.submit_form_btn {
+    width: 100%;
+}
